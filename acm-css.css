@@ -1,0 +1,79 @@
+body{
+    background-color: #f4ead7;
+}
+
+
+h1{
+    
+   background-color: #663f00;
+    border:#f4ead7;
+    border-width: 1px;
+    border-style:solid;
+    height:100px;
+    padding-top:50px;
+    font-size: 75px;
+    display: inline-block;
+    color:#f4ead7;
+    vertical-align: middle;
+    text-align: center;
+    inline-size: 100%;
+    background-image: url(../img/acm-logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 152px;
+    font-family: "antipol-variable", sans-serif;
+font-variation-settings: "STCH" 1, "wdth" 100, "wght" 400;
+position: relative;
+bottom: 75px;
+
+}
+
+nav ul li{
+    color:#663f00;
+    font-size:40px;
+    text-align: center;
+    list-style-type: none;
+    float:left;
+    margin:35px;
+    padding: 10px;
+    border:#663f00;
+    border-width: 1px;
+    border-style: solid;
+    position: relative;
+    bottom: 150px
+}
+
+nav ul li a{
+color:#663f00;
+text-decoration: none;
+font-family: "neuzeit-grotesk", sans-serif;
+font-weight: 300;
+font-style: normal;
+}
+
+nav ul li a:hover{
+    color:#f4ead7;
+    background-color:#663f00;
+}
+
+h2{
+    color:#663f00;
+    font-size:40px;
+    text-align: center;
+    font-family: "neuzeit-grotesk", sans-serif;
+font-weight: 300;
+font-style: normal;
+position: relative;
+bottom: 210px;
+}
+
+main img{
+    margin:35px;
+    padding: 10px;
+    border:#663f00;
+    border-width: 1px;
+    border-style: solid;
+    background-color: #663f00;
+    position: relative;
+    bottom: 175px;
+    left: 45px;
+}
